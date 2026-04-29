@@ -135,8 +135,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Your Name
+Syed Ashfan Abbas 
+1BO23IS047
 
----
 
-## ⭐ If you like this project, give it a star!
+
